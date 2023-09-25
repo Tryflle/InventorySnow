@@ -1,6 +1,6 @@
 # InventorySnow
 - InventorySnow is a mod for weave which overlays particles over your inventory.
-[![Demonstration](https://imgur.com/a/0H3e1rq)
+[Demonstration](https://imgur.com/a/0H3e1rq)
 # Usage
 - Toggle: `/togglesnow`
 - ~~Edit intensity: `/snowintensity <1-100>`~~ BROKEN
