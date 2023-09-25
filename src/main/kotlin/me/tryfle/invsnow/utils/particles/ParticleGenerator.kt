@@ -26,7 +26,7 @@ class ParticleGenerator {
         for (particle in particles) {
             particle.fall()
             particle.interpolation()
-            val range = 50
+            val range = StoredConfig.sliderValue.toInt()
             val mouseOver =
                 mouseX >= particle.x - range && mouseY >= particle.y - range && mouseX <= particle.x + range && mouseY <= particle.y + range
             if (mouseOver) {
