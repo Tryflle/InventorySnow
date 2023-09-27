@@ -13,3 +13,4 @@
 - This was ported from [Polyfrost's REDACTION Mod.](https://github.com/Polyfrost/REDACTION)
 - This mod is licensed under the GPL 3.0 license.
 - Configs do NOT save *yet*.
+- Still has compatibility issues, update 1.1 remedied no other mods working at all.
