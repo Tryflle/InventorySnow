@@ -9,7 +9,7 @@ import org.lwjgl.input.Mouse
 
 object ParticleManager {
     var hasChanged = false
-    private val mc: Minecraft
+    val mc: Minecraft
         get() = Minecraft.getMinecraft()
     private val particleGenerator = ParticleGenerator()
 
